@@ -1,0 +1,9 @@
+
+2
+java:S1700"Rename field "paisIpService"(Î°ÁÕ
+x
+java:S1104"VMake FORMATO_IP a static final constant or non-public and provide accessors if needed.(…çÄ«ûÿÿÿÿ8¾™†×¥/
+R
+java:S1444"0Make this "public static FORMATO_IP" field final(…çÄ«ûÿÿÿÿ8¾™†×¥/
+w
+java:S3008"URename this field "FORMATO_IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…çÄ«ûÿÿÿÿ8¾™†×¥/

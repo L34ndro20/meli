@@ -1,0 +1,13 @@
+
+N
+java:S16124",Replace this lambda with a method reference.(Õ½§ûÿÿÿÿ8±şÔÖ¥/
+L
+java:S54112"*Use the primitive boolean expression here.(ó‹ÖÌıÿÿÿÿ8±şÔÖ¥/
+F
+java:S1172W"0Remove this unused method parameter "paisIpDto".(Âøü…
+I
+java:S1612:",Replace this lambda with a method reference.(½”¶Ï8±şÔÖ¥/
+L
+java:S54110"*Use the primitive boolean expression here.(Õ•ì»şÿÿÿÿ8±şÔÖ¥/
+p
+java:S16021"SRemove useless curly braces around statement and then remove useless return keyword(ê©è£8­èµ†¥/

@@ -1,0 +1,12 @@
+challenge.meli.consultaip.$ConsultaIpInfraUnitaria$PaisIpDaoI0DefinitionClass
+challenge.meli.consultaip.restFake.$PaisIpRestFake$InterceptedDefinitionClass
+challenge.meli.consultaip.restFake.$TarifaMonedaRestFake$InterceptedDefinitionClass
+challenge.meli.consultaip.$ConsultaIpAceptacionDefinitionClass
+challenge.meli.consultaip.$ConsultaIpDomainUnitariaDefinitionClass
+challenge.meli.consultaip.$$ConsultaIpDomainUnitaria$PaisIpInf0Definition$InterceptedDefinitionClass
+challenge.meli.consultaip.$$ConsultaIpInfraUnitaria$PaisIpDaoI0Definition$InterceptedDefinitionClass
+challenge.meli.consultaip.$ConsultaIpDomainUnitaria$PaisIpInf0DefinitionClass
+challenge.meli.consultaip.$ConsultaIpInfraUnitariaDefinitionClass
+challenge.meli.consultaip.restFake.$InfPaisRestFake$InterceptedDefinitionClass
+challenge.meli.consultaip.$ConsultaIpAceptacion$PaisIpDaoI0DefinitionClass
+challenge.meli.consultaip.$$ConsultaIpAceptacion$PaisIpDaoI0Definition$InterceptedDefinitionClass

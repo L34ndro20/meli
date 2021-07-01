@@ -1,0 +1,11 @@
+challenge.meli.infrastructure.client.$InfPaisRest$InterceptedDefinitionClass
+challenge.meli.infrastructure.converter.$ConverterContextDefinitionClass
+challenge.meli.infrastructure.converter.$ConverterContext$GetMapper0DefinitionClass
+challenge.meli.infrastructure.client.$TarifaMonedaRest$InterceptedDefinitionClass
+challenge.meli.application.$PaisIpCtrDefinitionClass
+challenge.meli.infrastructure.persistence.$MongoContextDefinitionClass
+challenge.meli.infrastructure.client.$PaisIpRest$InterceptedDefinitionClass
+challenge.meli.infrastructure.persistence.$MongoContext$GetMongoCollectionListaIp0DefinitionClass
+challenge.meli.domain.service.$PaisIpServiceDefinitionClass
+challenge.meli.infrastructure.persistence.dao.$PaisIpDaoDefinitionClass
+challenge.meli.infrastructure.service.$PaisIpServiceIDefinitionClass

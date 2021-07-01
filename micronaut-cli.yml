@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: challenge.meli
+---
+testFramework: junit
+sourceLanguage: java

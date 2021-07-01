@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.meli.consultaip.ConsultaIpDomainUnitaria" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-01T02:21:21" hostname="PARLBB6WNQ2" time="0.031">
+  <properties/>
+  <testcase name="consultarIpPaisDomainOk()" classname="challenge.meli.consultaip.ConsultaIpDomainUnitaria" time="0.031"/>
+  <system-out><![CDATA[?[36m21:21:21.748?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mi.m.context.env.DefaultEnvironment?[0;39m - Established active environments: [test]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
